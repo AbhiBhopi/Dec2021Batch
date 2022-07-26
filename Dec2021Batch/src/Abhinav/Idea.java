@@ -9,7 +9,7 @@ public class Idea implements Sim {
 		}
 		
 		public void SMS() {
-			System.out.println("SMS = 500");
+			System.out.println("SMS = 5678900");
 			
 		}
 		
